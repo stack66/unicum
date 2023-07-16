@@ -9,3 +9,4 @@ General schema diagram
       C---->E[Waiting for next task];
       D---->E[Waiting for next task];
 ```
+![Image Alt](/images/zara-1.png)
