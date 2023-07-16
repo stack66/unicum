@@ -1,0 +1,2 @@
+cd /usr/local/src/unicum
+/usr/bin/python sqlite2excel.py

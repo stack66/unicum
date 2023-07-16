@@ -1,0 +1,2 @@
+/usr/bin/python /usr/local/src/unicum/unic2.py
+#echo "Script executed - "$(date +%F)>>exec.log
